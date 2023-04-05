@@ -1,8 +1,7 @@
 import React from "react";
 
-const Cta = () => {
+const CTA = () => {
   return <div>CTA</div>;
 };
 
-export default Cta;
-<div>CTA</div>;
+export default CTA;
